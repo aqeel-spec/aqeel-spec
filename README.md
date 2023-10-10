@@ -3,11 +3,15 @@
 </div>
 <h1 align="center">Hi 👋, I'm aqeel-spec</h1>
 <h3 align="center">A passionate JAMstack developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
+
+
+
+
+<!-- <!-- Profile Statics  -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aqeel-spec&label=Profile%20views&color=0e75b6&style=flat" alt="aqeel-spec" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aqeel-spec" alt="aqeel-spec" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aqeel-spec" alt="aqeel-spec" /></a> </p> 
 
 - 🔭 I’m currently working on **generative AI applications**
 
@@ -32,9 +36,27 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aqeel-spec"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aqeel-spec" /></a></p><br><br>
+<!-- Git Stats section goes here -->
+<details>
+<summary>
+  More stuff about me
+</summary>
+  <!-- Profile Statistics -->
+<h2 align="center">GitHub Stats</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aqeel-spec&show_icons=true&locale=en&layout=compact" alt="aqeel-spec" /></p>
+<!-- Most used languages on the left and GIF image on the right -->
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aqeel-spec&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img width="45%" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" alt="Coding" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aqeel-spec&show_icons=true&locale=en" alt="aqeel-spec" /></p>
+<!-- First card on the left and the second on the right on the same line -->
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=aqeel-spec&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=aqeel-spec&theme=tokyonight" alt="GitHub Streak" />
+</p>
+</details>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aqeel-spec&" alt="aqeel-spec" /></p>
+
+
+
