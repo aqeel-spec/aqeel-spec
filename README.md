@@ -2,8 +2,8 @@
   <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="500" height="250" />
 </div>
 
-<h1 align="center">Hi 👋, I'm aqeel-spec</h1>
-<h3 align="center">A passionate JAMstack developer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Aqeel Shahzad</h1>
+<h3 align="center">A passionate JAMstack developer from :pakistan: 🇵🇰 Pakistan</h3>
 <!-- 
 <div align="center">
   <a href="https://www.buymeacoffee.com/aqeel-spec">
@@ -11,6 +11,23 @@
   </a>
 </div>
 -->
+<!-- <!-- Profile Statics  -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aqeel-spec&label=Profile%20views&color=0e75b6&style=flat" alt="aqeel-spec" /> </p>
+<!-- <--
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aqeel-spec" alt="aqeel-spec" /></a> </p> 
+ -->
+
+- 🔭 I’m currently working on **generative AI applications**
+
+- 🌱 I’m currently learning **llms langchain**
+
+- 👨‍💻 All of my projects are available at [https://portfolio-app-black.vercel.app/](https://portfolio-app-black.vercel.app/)
+
+- 💬 Ask me about **I'm a passionate and experienced full-stack developer with expertise in Next.js, dedicated to creating elegant and functional web applications. My goal is to help you bring your projects to life and deliver solutions that meet your specific needs.**
+
+- 📫 How to reach me **aqeelshahzad1215@gmail.com**
+
+- 📄 Know about my experiences [https://portfolio-app-black.vercel.app/app](https://portfolio-app-black.vercel.app/app)
 
 <h2 align="center">GitHub Stats</h2>
 
@@ -25,6 +42,8 @@
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=aqeel-spec&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=aqeel-spec&theme=tokyonight" alt="GitHub Streak" />
 </p>
+<hr />
+
 
 
 <h3 align="center">Languages and Tools:</h3>
