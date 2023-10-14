@@ -1,16 +1,11 @@
 <div align="center">
-  <img src="./Assests/github-cover.gif" width="100%" height="250" />
+  <img src="./Assests/github-banner.gif" width="100%" height="250" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Aqeel Shahzad</h1>
-<h3 align="center">A passionate JAMstack developer from :pakistan: 🇵🇰 Pakistan</h3>
+<h3 align="center">A passionate JAMstack developer from  🇵🇰 Pakistan</h3>
 <!-- 
-<div align="center">
-  <a href="https://www.buymeacoffee.com/aqeel-spec">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
-  </a>
-</div>
--->
+c
 <!-- <!-- Profile Statics  -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aqeel-spec&label=Profile%20views&color=0e75b6&style=flat" alt="aqeel-spec" /> </p>
 <!-- <--
@@ -29,13 +24,17 @@
 
 - 📄 Know about my experiences [https://portfolio-app-black.vercel.app/app](https://portfolio-app-black.vercel.app/app)
 
+<!-- ************ (((( Github statics )))) ************* -->
+
 <h2 align="center">GitHub Stats</h2>
 
 <!-- Most used languages on the left and GIF image on the right -->
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aqeel-spec&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img width="45%" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" alt="Coding" />
+  <img width="45%" src="https://i.gifer.com/bJk.gif" alt="Coding" />
 </p>
+
+
 
 <!-- First card on the left and the second on the right on the same line -->
 <p align="center">
