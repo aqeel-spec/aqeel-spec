@@ -29,11 +29,18 @@ c
 <h2 align="center">GitHub Stats</h2>
 
 <!-- Most used languages on the left and GIF image on the right -->
-<p align="center">
+<style>
+.flex-container {
+  display: flex;
+  justify-content: center;
+}
+</style>
+
+<div class="flex-container">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aqeel-spec&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
   <img src="./Assests//program.gif" style="border: 1px solid white; border-radius: 8px; width: 44%;" alt="Coding" />
+</div>
 
-</p>
 
 
 
