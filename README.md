@@ -30,11 +30,13 @@ c
 
 <!-- Most used languages on the left and GIF image on the right -->
 
-
-<div align="center" style="justify-direction : row" >
+<div align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aqeel-spec&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="./Assests//program.gif" style="border: 1px solid white; border-radius: 8px; width: 44%;" alt="Coding" />
+<!--   <img src="./Assests//program.gif" style="border: 1px solid white; border-radius: 8px; " width="44%" alt="Coding" /> -->
+  <img src="./Assests//program.gif" style="background-color: white; border-radius: 8px; " width="44%" alt="Coding" />
+
 </div>
+
 
 
 
